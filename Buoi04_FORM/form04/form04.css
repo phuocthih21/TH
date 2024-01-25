@@ -1,0 +1,40 @@
+body{ 
+    font-family: tahoma;
+    font-size: 11pt;
+    
+}
+th{
+    font-size: 13pt;
+    background: rgb(39, 53, 238);
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid #ff0000;
+    background: #9fb1ec;
+    
+}
+
+td{
+    padding: 5px;
+}
+
+input{
+    border: 1px dotted #90ee90;
+    padding: 5px;
+    background: #e0ffff;
+    
+}
+input:focus{
+    border: 1px solid #0000ff;
+    background: rgb(116, 235, 48);
+
+}
+button{
+    border: 1px solid #20b2aa;
+    background: rgb(17, 106, 240);
+    padding: 5px;
+    margin-right: 5px;
+    color: white;
+   
+}
